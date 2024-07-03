@@ -1,8 +1,5 @@
 import numpy as np
 
-#sivan senvetu 207279845
-#dor biton 207994641
-
 
 def inverse(matrix):
     if matrix.shape[0] != matrix.shape[1]:
